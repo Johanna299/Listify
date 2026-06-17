@@ -83,10 +83,6 @@ My work included concept development, use case definition, wireframing, frontend
 
 ![Shopping list overview](docs/screenshots/shopping-list-overview.png)
 
-### Create Shopping List
-
-![Create shopping list](docs/screenshots/create-shopping-list.png)
-
 ### Mark Items as Bought
 
 ![Mark items as bought](docs/screenshots/mark-items-bought.png)
@@ -98,6 +94,10 @@ My work included concept development, use case definition, wireframing, frontend
 ### Filter Items by Tags
 
 ![Filter items by tags](docs/screenshots/filter-items.png)
+
+### Create new Item
+
+![Edit item view](docs/screenshots/create-item.png)
 
 ### Edit Item
 
