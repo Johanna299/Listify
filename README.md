@@ -2,7 +2,7 @@
 
 Listify is a web application for managing shopping lists. Users can create and edit shopping lists, add items, filter items by tags and mark items as bought while shopping.
 
-The project was developed as part of the course 'Web Engineering' during my Bachelor’s degree in Communication, Knowledge & Media at University of Applied Sciences Upper Austria, Campus Hagenberg.
+This project was developed in the 3rd semester of my Bachelor’s degree in Communication, Knowledge & Media at the University of Applied Sciences Upper Austria, Campus Hagenberg, as part of the course 'Web Engineering'.
 
 The goal of the project was to design and implement a shopping list application from concept and wireframes to a functional frontend implementation using HTML, CSS and JavaScript.
 
